@@ -16,6 +16,7 @@ n_player = 3
 Horizon = 3
 n_police = 2
 BATCH_SIZE = 50
+#test
 
 #define loss function
 def my_loss(x, y):
